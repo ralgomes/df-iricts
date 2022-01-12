@@ -1,0 +1,21 @@
+item_armor_irict
+
+[OBJECT:ITEM]
+
+[ITEM_ARMOR:ITEM_ARMOR_ARMORED_COAT]
+    [NAME:armored coat:armored coats]
+    [ARMORLEVEL:2]
+    [UBSTEP:MAX]
+    [LBSTEP:2]
+    [LAYER:OVER]
+    [METAL_ARMOR_LEVELS]
+    [COVERAGE:100]
+    [LAYER_SIZE:15]
+    [LAYER_PERMIT:50]
+    [MATERIAL_SIZE:6]
+    [LEATHER]
+    [HARD]
+    [BARRED]
+    [SCALED]
+    [METAL]
+    [STRUCTURAL_ELASTICITY_CHAIN_ALL]

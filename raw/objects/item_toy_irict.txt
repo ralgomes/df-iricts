@@ -1,0 +1,24 @@
+item_toy_irict
+
+[OBJECT:ITEM]
+
+[ITEM_TOY:ITEM_TOY_PINWHEEL]
+[NAME:pinwheel:pinwheels]
+
+[ITEM_TOY:ITEM_TOY_DOLL]
+[NAME:doll:dolls]
+
+[ITEM_TOY:ITEM_TOY_MARIONETTE]
+[NAME:marionette:marionette]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_MASK]
+[NAME:mask:masks]
+
+[ITEM_TOY:ITEM_TOY_SOLDIER]
+[NAME:toy soldier:toy soldiers]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_TOP]
+[NAME:top:tops]
+[HARD_MAT]

@@ -1,0 +1,17 @@
+item_shoes_irict
+
+[OBJECT:ITEM]
+
+[ITEM_SHOES:ITEM_SHOES_HARD]
+    [NAME:hard shoe:hard shoes]
+    [METAL_ARMOR_LEVELS]
+    [LAYER:OVER]
+    [COVERAGE:100]
+    [LAYER_SIZE:25]
+    [LAYER_PERMIT:15]
+    [MATERIAL_SIZE:1]
+    [LEATHER]
+    [BARRED]
+    [SCALED]
+    [METAL]
+    [HARD]
